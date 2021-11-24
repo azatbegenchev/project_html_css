@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(158, 85, 206);
+}
+
+p{
+    color: black;
+    font-size: 22px;
+}
+
+img{
+    float: left;
+}

@@ -1,0 +1,17 @@
+body{
+	background-color: #111111;
+}
+
+h1{
+	color: #ffffff;
+	font-family: fruktur;
+}
+
+p{
+	color: #00ff73;
+	font-family: consolas, "sans-serif";
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 18px;
+}

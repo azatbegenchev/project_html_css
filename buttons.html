@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>buttons</title>
+	<meta charset="utf-8">
+</head>
+<body>
+
+	<!--button with hypelink-->
+
+	<a href="https://www.google.com">
+		<button style="background-color:#ffffff; color: blue; border-radius: 5px">Google</button>
+	</a><br><br>
+	
+	<!--button with js function-->
+
+	<button onclick="doSomething()">Click on me</button>
+	
+	<p id="test">Hello</p>
+
+	<script type="text/javascript">
+		
+		function doSomething(){
+			document.getElementById("test").innerHTML = "Goodbay";
+		}
+
+	</script>
+
+
+</body>
+</html>

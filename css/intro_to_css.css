@@ -1,0 +1,27 @@
+body {
+	background-color: grey;
+}
+
+h1{
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+#he1{
+	color: red;
+}
+
+#p1{
+	color: #dd44dd;
+}
+
+#p2{
+	color: rgb(153,170,51);
+}
+
+#p3{
+	color: blue;
+}

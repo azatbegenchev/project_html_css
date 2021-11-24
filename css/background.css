@@ -1,0 +1,23 @@
+body{
+	background-image: url(../img/Central_Park__New_York_City.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+h1{/*
+	background: linear-gradient(to left, skyblue, lightgreen);
+	background-repeat: no-repeat;
+	background-attachment: fixed;*/
+	color: black;
+}
+
+p{
+	background: linear-gradient(to left, skyblue, lightgreen);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: grey;
+}
+
+
